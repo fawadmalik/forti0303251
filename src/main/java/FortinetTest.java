@@ -181,5 +181,6 @@ public class FortinetTest {
 		driver.quit();
 		System.out.println("Session Terminated...");
 		System.out.println("Thank you...");
+		System.out.println("Thank you...");
 	}
 }
