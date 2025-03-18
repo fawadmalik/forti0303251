@@ -14,7 +14,7 @@ public class FortinetTest {
 	static String productName, password = null;
 	static long startTime, endTime, elapsedTime;
 	static HashMap<String, String> mapUsers;
-//main123
+//main123456
 	public static void main(String[] args) {
 		//Main class where the execution starts
 		setupEnv();
