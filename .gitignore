@@ -1,0 +1,13 @@
+# Eclipse-specific
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA-specific
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven target directory
+target/
